@@ -1,0 +1,14 @@
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\bin\Debug\netcoreapp3.1\DateTime_kind.exe
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\bin\Debug\netcoreapp3.1\DateTime_kind.deps.json
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\bin\Debug\netcoreapp3.1\DateTime_kind.runtimeconfig.json
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\bin\Debug\netcoreapp3.1\DateTime_kind.runtimeconfig.dev.json
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\bin\Debug\netcoreapp3.1\DateTime_kind.dll
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\bin\Debug\netcoreapp3.1\DateTime_kind.pdb
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\obj\Debug\netcoreapp3.1\DateTime_kind.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\obj\Debug\netcoreapp3.1\DateTime_kind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\obj\Debug\netcoreapp3.1\DateTime_kind.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\obj\Debug\netcoreapp3.1\DateTime_kind.AssemblyInfo.cs
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\obj\Debug\netcoreapp3.1\DateTime_kind.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\obj\Debug\netcoreapp3.1\DateTime_kind.dll
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\obj\Debug\netcoreapp3.1\DateTime_kind.pdb
+C:\Users\fabri\source\repos\DateTime_kind\DateTime_kind\obj\Debug\netcoreapp3.1\DateTime_kind.genruntimeconfig.cache

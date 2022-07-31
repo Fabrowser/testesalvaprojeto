@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lS3mhkrWRD7vTrtkNlXNfZqYIy6ya/aC1OESMZ9Lcv1Ct3HUEa1otTjA1kTnqmlw9n4SWIH80cBGM3J2HX4Srw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabri\\source\\repos\\DateTime_kind\\DateTime_kind\\DateTime_kind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
